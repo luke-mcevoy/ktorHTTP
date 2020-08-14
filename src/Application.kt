@@ -1,4 +1,4 @@
-package com.mcevoy.learning.ktor
+package com.mcevoy.ktor.learning
 
 import io.ktor.application.*
 import io.ktor.response.*
